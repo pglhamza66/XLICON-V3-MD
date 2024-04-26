@@ -26,8 +26,8 @@
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
 //Telegram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
-//GitHub: 923021237037
-//WhatsApp: +923021237037
+//GitHub: 923443526283
+//WhatsApp: +923443526283
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼.
 //   * Credit To Xeon
@@ -52,7 +52,7 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || '—͟͞͞★ ᵖ𝖆𝖌𝖆ใβ𝘰ʇ ★' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923021237037' //ur owner number
+global.ownernumber = process.env.SUDO || '923443526283' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || '🔥🥀✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼❀🥀🔥' //ur owner name
 //________________________________________________________________________________________________________
@@ -70,11 +70,11 @@ global.packname = process.env.PACK_NAME || "🔥🥀✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡�
 //________________________________________________________________________________________________________
 global.author = process.env.AUTHER_NAME || "🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "923021237037@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "923443526283@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923021237037"] // Premium User
+global.premium = process.env.GL_VIP || ["923443526283"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
