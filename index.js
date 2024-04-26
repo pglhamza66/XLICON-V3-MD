@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
+//                                 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
 //                                                                                                      //
 //                                         Ｖ：3.0                                                      //
 //                                                                                                      //
@@ -15,22 +15,22 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//  * @project_name : ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼-V3-MD
+//  * @author : 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋
+//  * @youtube : https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//   * @description : 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋.
 //*
 //*
-//base by DGXeon
+//base by ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
-//   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//Instagram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//Telegram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//GitHub: @https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//WhatsApp: +923021237037
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//   * Created By Github: 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋.
+//   * Credit To ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼
+//   * © 2024 ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼-V3-MD.
 // ⛥┌┤
 // */
 
