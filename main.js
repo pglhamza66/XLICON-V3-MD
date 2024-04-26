@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
+//                                 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
 //                                                                                                      //
 //                                         Ｖ：3.0                                                      //
 //                                                                                                      //
@@ -15,22 +15,22 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//  * @project_name : 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋-V3-MD
+//  * @author : 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋
+//  * @youtube : https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//   * @description : 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋.
 //*
 //*
-//base by DGXeon
+//base by ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
-//   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//Instagram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//Telegram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//GitHub: @https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//WhatsApp: +923021237037
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//   * Created By Github: ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼.
+//   * Credit To ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼
+//   * © 2024 ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼-V3-MD.
 // ⛥┌┤
 // */
 
@@ -197,14 +197,14 @@ const pairingCode =
     new Promise((_0x329a39) => rl[_0x44ced9(0x16d)](_0x5a86ab, _0x329a39));
 function _0x33fb() {
   const _0xabc722 = [
-    "🎀\x20Connected\x20to\x20=>\x20",
+    "😈\x20Connected\x20to\x20=>\x20",
     "voice",
     "--mobile",
     "Start\x20with\x20country\x20code\x20of\x20your\x20WhatsApp\x20Number,\x20Example\x20:\x20+923184070915",
     "groupMetadata",
     ",\x20you\x20have\x20been\x20*demoted*\x20from\x20*admin*\x20😬",
     "./XLICON-V3",
-    "\x0a🏮Connecting...",
+    "\x0a😈Connecting...",
     "Unknown\x20DisconnectReason:\x20",
     "existsSync",
     "redBright",
@@ -347,7 +347,7 @@ function _0x33fb() {
     "fromMe",
     "Cannot\x20use\x20pairing\x20code\x20with\x20mobile\x20api",
     "participants",
-    "923184070915",
+    "923021237037",
     "3418767taDLjB",
     "fatal",
     "antiswview",
