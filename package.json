@@ -1,7 +1,7 @@
 {
-    "name": "Xlicon-V3-MD",
+    "name": "—͟͞͞★ ᵖ𝖆𝖌𝖆ใβ𝘰ʇ ★",
     "version": "3.0",
-    "description": "Whatsapp Bot By SalmanSer",
+    "description": "—͟͞͞★ ᵖ𝖆𝖌𝖆ใβ𝘰ʇ ★r",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -13,7 +13,7 @@
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "salmanytofficial",
+    "author": "—͟͞͞★ ᵖ𝖆𝖌𝖆ใβ𝘰ʇ ★",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.6.0",
