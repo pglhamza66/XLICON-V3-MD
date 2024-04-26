@@ -16,22 +16,22 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
- //  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+ //  * @project_name : —͟͞͞★ ᵖ𝖆𝖌𝖆ใβ𝘰ʇ ★
+ //  * @author : —͟͞͞★ ᵖ𝖆𝖌𝖆ใβ𝘰ʇ ★
+ //  * @youtube : https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//   * @description : —͟͞͞★ ᵖ𝖆𝖌𝖆ใβ𝘰ʇ ★.
 //*
 //* 
-//base by DGXeon
+//base by 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//Instagram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//Telegram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//GitHub: 923021237037
+//WhatsApp: +923021237037
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
+//   * Created By Github: ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼.
 //   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//   * © 2024 —͟͞͞★ ᵖ𝖆𝖌𝖆ใβ𝘰ʇ ★-V3-MD.
 // ⛥┌┤
 // */
 
@@ -41,40 +41,40 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: 🇭‌🇦‌🇲‌🇿‌🇦‌ " //ur yt chanel name
+global.ytname = process.env.YT_NAME || "YT: —͟͞͞★ ᵖ𝖆𝖌𝖆ใβ𝘰ʇ ★ " //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: 🔥🥀✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼❀🥀🔥" //ur github or insta name
 //________________________________________________________________________________________________________
 global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
 //________________________________________________________________________________________________________
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || '🇭‌🇦‌🇲‌🇿‌🇦‌' //ur bot name
+global.botname = process.env.BOT_NAME || '—͟͞͞★ ᵖ𝖆𝖌𝖆ใβ𝘰ʇ ★' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '923021237037' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'HAMZA MUNTL' //ur owner name
+global.ownername = process.env.SUDO_NAME || '🔥🥀✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼❀🥀🔥' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/HpEhnqDalFxLDTB5BUtwNC"
+global.wagc = process.env.GL_PUSH || "https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem"
 //________________________________________________________________________________________________________
-global.themeemoji = process.env.GL_EMOJI || '🏮'
+global.themeemoji = process.env.GL_EMOJI || '😈'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
+global.wm = process.env.GL_WM || "© 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "🔥🥀✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼❀🥀🔥"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "🇭‌🇦‌🇲‌🇿‌🇦‌"
+global.author = process.env.AUTHER_NAME || "🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "923140464997@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "923021237037@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923140464997"] // Premium User
+global.premium = process.env.GL_VIP || ["923021237037"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
@@ -85,9 +85,9 @@ global.typemenu = process.env.MENU_DESIGN || 'v4' // menu type 'v1' => 'v8'
 //________________________________________________________________________________________________________
 global.typereply = process.env.REPLY_TYPE || 'v2' // reply type 'v1' => 'v3'
 //________________________________________________________________________________________________________
-global.autoblocknumber = process.env.AUTO_BAN || '212' //set autoblock country code
+global.autoblocknumber = process.env.AUTO_BAN || '92' //set autoblock country code
 //________________________________________________________________________________________________________
-global.antiforeignnumber = process.env.AUTO_BLOCK || '212' //set anti foreign number country code
+global.antiforeignnumber = process.env.AUTO_BLOCK || '92' //set anti foreign number country code
 //________________________________________________________________________________________________________
 global.welcome = process.env.WELCOME_MSG || true //welcome/left in groups
 //________________________________________________________________________________________________________
