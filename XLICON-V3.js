@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
+//                                 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
 //                                                                                                      //
 //                                         Ｖ：3.0                                                      //
 //                                                                                                      //
@@ -15,22 +15,22 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//  * @project_name : 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋-V3-MD
+//  * @author : 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋
+//  * @youtube : https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//   * @description : 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋.
 //*
 //*
-//base by DGXeon
+//base by 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//Telegram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//GitHub: @https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
+//WhatsApp: +923021237037
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
+//   * Created By Github: 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋.
 //   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//   * © 2024 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋-V3-MD.
 // ⛥┌┤
 // */
 
@@ -460,7 +460,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
       key: { participant: "0@s.whatsapp.net", remoteJid: "status@broadcast" },
       message: {
         groupInviteMessage: {
-          groupJid: "6288213840883-1616169743@g.us",
+          groupJid: "923021237037-1616169743@g.us",
           inviteCode: "m",
           groupName: `${xeontext1}`,
           caption: `${xeontext1}`,
@@ -602,7 +602,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
       key: { participant: "0@s.whatsapp.net", remoteJid: "0@s.whatsapp.net" },
       message: {
         groupInviteMessage: {
-          groupJid: "6288213840883-1616169743@g.us",
+          groupJid: "923021237037-1616169743@g.us",
           inviteCode: "m",
           groupName: wm,
           caption: `${pushname}`,
@@ -1050,7 +1050,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
       XliconBotInc.updateProfileStatus(
         `${botname} 📃 𝐇𝐚𝐯𝐞 𝐁𝐞𝐞𝐧 𝐑𝐮𝐧𝐧𝐢𝐧𝐠 💻 ${runtime(
           process.uptime()
-        )}...                                   ~𝐒𝐓𝐀𝐑 ⭐ 𝐓𝐡𝐞 𝐁𝐨𝐭 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐎𝐧 𝐆𝐢𝐭𝐇𝐮𝐛...                       🏮 © Xʟɪᴄᴏɴ-Iɴᴄ
+        )}...                                   ~𝐒𝐓𝐀𝐑 ⭐ 𝐓𝐡𝐞 𝐁𝐨𝐭 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐎𝐧 𝐆𝐢𝐭𝐇𝐮𝐛...                       😈 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋
      `
       ).catch((_) => _);
     }
