@@ -26,7 +26,7 @@
 //Instagram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
 //Telegram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
 //GitHub: @https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
-//WhatsApp: +923443526283
+//WhatsApp: +923093303835
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
 //   * Created By Github: 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋.
 //   * Credit To ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼
