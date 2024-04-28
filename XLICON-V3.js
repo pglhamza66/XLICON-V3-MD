@@ -26,7 +26,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
 //GitHub: @https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
-//WhatsApp: +923443526283
+//WhatsApp: +923093303835
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: 🦋✨ᴵᴬᴹ  ➳ᴩª𝗴𝑎𝚕ᗷοț➳✨🦋.
 //   * Credit To Xeon
@@ -460,7 +460,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
       key: { participant: "0@s.whatsapp.net", remoteJid: "status@broadcast" },
       message: {
         groupInviteMessage: {
-          groupJid: "923443526283-1616169743@g.us",
+          groupJid: "923093303835-1616169743@g.us",
           inviteCode: "m",
           groupName: `${xeontext1}`,
           caption: `${xeontext1}`,
@@ -602,7 +602,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
       key: { participant: "0@s.whatsapp.net", remoteJid: "0@s.whatsapp.net" },
       message: {
         groupInviteMessage: {
-          groupJid: "923443526283-1616169743@g.us",
+          groupJid: "923093303835-1616169743@g.us",
           inviteCode: "m",
           groupName: wm,
           caption: `${pushname}`,
