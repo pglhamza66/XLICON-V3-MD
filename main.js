@@ -26,7 +26,7 @@
 //Instagram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
 //Telegram: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
 //GitHub: @https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
-//WhatsApp: +923443526283
+//WhatsApp: +923093303835
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@by_mods037?si=JazfTJp1k34CZoem
 //   * Created By Github: ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼.
 //   * Credit To ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼
@@ -347,7 +347,7 @@ function _0x33fb() {
     "fromMe",
     "Cannot\x20use\x20pairing\x20code\x20with\x20mobile\x20api",
     "participants",
-    "923443526283",
+    "923093303835",
     "3418767taDLjB",
     "fatal",
     "antiswview",
